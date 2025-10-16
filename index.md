@@ -28,7 +28,7 @@ The George Washington University (Washington, DC)
 
 - Coursework: Algorithms, Artificial Intelligence, Machine Learning, Neural Networks and Deep Learning, Natural Language Understanding, Large Language Models, Computer Vision, Quantum Computing, Computer System Architecture
 
-**B.S. in Computer Science | B.S. in Mathematics** (Aug 2019 - May 2023)
+**B.S. in Computer Science; B.S. in Mathematics** (Aug 2019 - May 2023)
 
 Syracuse University (Syracuse, NY)
 
