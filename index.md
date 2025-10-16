@@ -3,82 +3,47 @@
 - [LinkedIn](https://www.linkedin.com/in/modi-li)
 - [GitHub](https://github.com/modi-li)
 
+## Experience
+
+**iOS Engineer**        (Aug 2025 - Sep 2025)
+
+Vently, Inc.        (Palo Alto, CA)
+
+- Developed the Vently iOS app with SwiftUI using MVVM, available on the App Store: [Vently](https://apps.apple.com/us/app/vently-plans-with-friends/id6751986841).
+- Collaborated closely with engineers using Git and designers on Figma.
+- Integrated RESTful APIs and optimized network performance with caching.
+- Utilized Swift Concurrency (async/await, Task).
+- Implemented user authentication with Keychain.
+- Implemented push notifications with APNs using Firebase.
+- Implemented real-time chat messaging with the Stream Chat SDK.
+- Developed advanced map features with MapKit.
+- Implemented the new Liquid Glass design for iOS 26.
+- Optimized UI for iPad.
+
+
 ## Education
 
-**The George Washington University** (08/2023 - 05/2025)
+**M.S. in Computer Science**        (Aug 2023 - May 2025)
 
-M.S. in Computer Science
+The George Washington University        (Washington, DC)
 
-**Syracuse University** (08/2019 - 05/2023)
+- Coursework: Algorithms, Artificial Intelligence, Machine Learning, Neural Networks and Deep Learning, Natural Language Understanding, Large Language Models, Computer Vision, Quantum Computing, Computer System Architecture
 
-B.S. in Computer Science
+**B.S. in Computer Science | B.S. in Mathematics**        (Aug 2019 - May 2023)
 
-B.S. in Mathematics
+Syracuse University        (Syracuse, NY)
 
-## Projects
+- CS Coursework: Data Structures, Algorithms, Software Specification and Design, Software Implementation, Systems and Network Programming, Web Systems, Design of Operating Systems, Automata and Computability, Android Programming, Computer Graphics, Discrete Mathematics
 
-[**iOS Chat App Demo with Swift and UIKit**](https://github.com/modi-li/iOS-Chat-App-Demo)
-
-- Developed an iOS chat app demo with Swift and UIKit.
-
-- Features include viewing and managing chats and contacts, sending messages, editing the user profile, etc.
-
-[**iOS Shopping App Demo with SwiftUI**](https://github.com/modi-li/iOS-SwiftUI-Shopping-App-Demo)
-
-- Developed an iOS shopping app demo with SwiftUI.
-
-- Features include browsing products, viewing product details, managing the shopping bag, purchasing premium plans, etc.
-
-[**iOS News App Demo with SwiftUI**](https://github.com/modi-li/iOS-SwiftUI-News-App-Demo)
-
-- Developed an iOS news app demo with SwiftUI.
-
-- Features include browsing news by category, viewing news details, etc.
-
-[**iOS To-Do List App with SwiftUI**](https://github.com/modi-li/iOS-SwiftUI-To-Do-List-App)
-
-- Developed an iOS to-do list app with SwiftUI.
-
-- Features include adding and editing items and lists, marking items as completed, etc.
-
-[**iOS Calculator App with SwiftUI**](https://github.com/modi-li/iOS-SwiftUI-Calculator-App)
-
-- Developed an iOS calculator app with SwiftUI.
-
-- Features include performing calculations, clearing inputs, etc.
-
-[**Music App Demo with React Native**](https://github.com/modi-li/React-Native-Music-App-Demo)
-
-- Developed a music app demo with React Native.
-
-- Features include browsing artists and music, viewing artist and music details, playing music, etc.
-
-[**Neural Network with PyTorch**](https://github.com/modi-li/PyTorch-NN-FashionMNIST)
-
-- Used PyTorch to develop a neural network and applied it to the FashionMNIST dataset.
-
-[**Emotion Analysis with SVM**](https://github.com/modi-li/Emotion-Analysis-SVM-example)
-
-- Used scikit-learn and NLTK to implement emotion analysis with SVM and applied it to a dataset.
+- Math Coursework: Calculus, Linear Algebra, Probability and Statistics, Combinatorics, Real Analysis, Abstract Algebra, Ordinary Differential Equations, Number Theory
 
 ## Skills
 
-- Programming Languages: Python, Swift, JavaScript, PHP, Java, C, C++
-
-- iOS App Development: Swift (UIKit, SwiftUI)
-
+- Programming Languages: Swift, Python, JavaScript
+- iOS Frameworks: UIKit, SwiftUI, Core Data, SwiftData, Swift Concurrency, MapKit, Alamofire, Stream Chat
+- Tools & Environments: Xcode, TestFlight, Git, Postman, Bruno, AWS, Azure, GCP, Firebase
 - Cross-Platform App Development: React Native
-
-- Web Development: HTML, CSS, JavaScript, jQuery, React, PHP, Django
-
-- Databases: SQL (MySQL, SQLite, PostgreSQL)
-
-- Data Analysis: NumPy, pandas, Matplotlib, SQL, Microsoft Excel
-
-- Machine Learning: PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, NLTK, spaCy
-
-- Environments & Tools: Unix, Git, Docker, CI/CD, AWS, Azure, GCP, WordPress
-
-- Project Management: Agile
-
-- Document Typesetting: Markdown, LaTeX
+- Web Development: HTML, CSS, JavaScript, TypeScript, React
+- Databases: SQL, NoSQL
+- Data Analysis & Machine Learning: NumPy, pandas, Matplotlib, PyTorch, Tensorflow, scikit-learn
+- UI/UX Design: Figma, Sketch, Adobe Illustrator
