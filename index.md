@@ -54,4 +54,3 @@ Syracuse University (Syracuse, NY)
 - Full Stack Development: React, Next.js, Tailwind CSS, Node.js
 - Tools & Environments: Git, Xcode, VS Code, Cursor, AWS (EC2, S3, DynamoDB, Cognito, Amplify), Postman, Figma, Sketch
 - Data Analysis & Machine Learning: NumPy, pandas, Matplotlib, PyTorch, scikit-learn
-- UI/UX Design: Figma, Sketch, Adobe Illustrator
