@@ -1,62 +1,43 @@
 # Modi (Victor) Li
 
-Mountain View, CA
-
-- [My LinkedIn](https://www.linkedin.com/in/modi-li)
-- [My GitHub](https://github.com/modi-li)
-
-## Experience
-
-**Software Engineer** (Nov 2025 - Present)
-
-Dynamyc LLC (Santa Clara, CA)
-
-- Developed a web application with React, Next.js, and Tailwind CSS, and deployed it on AWS Amplify with AWS Cognito, AWS Dynamo DB, and AWS S3.
-- Developed a WordPress theme with PHP and used it on a WordPress website.
-- Designed UI prototypes on Figma.
-
-**iOS Engineer** (Sep 2025 - Oct 2025)
-
-Viral Instinct Inc. (San Francisco, CA)
-
-- Developed the Methods iOS app with SwiftUI, available on the App Store: https://apple.co/45wxZaM.
-- Utilized the MVVM architecture.
-- Integrated RESTful APIs and optimized network performance with caching.
-- Utilized Swift Concurrency (async/await, Task).
-- Implemented user authentication with Clerk.
-- Collaborated with engineers using Git and designers on Figma.
-
-**iOS Engineer** (Aug 2025 - Sep 2025)
-
-Vently Inc. (Palo Alto, CA)
-
-- Developed the Vently iOS app with SwiftUI, available on the App Store: https://apple.co/45noPgM.
-- Utilized the MVVM architecture.
-- Integrated RESTful APIs and optimized network performance with caching.
-- Utilized Swift Concurrency (async/await, Task).
-- Implemented user authentication with Keychain.
-- Implemented push notifications with APNs using Firebase.
-- Implemented real-time chat messaging with the Stream Chat SDK.
-- Developed advanced map features with MapKit.
-- Implemented Liquid Glass for iOS 26 and optimized UI for iPad.
-- Collaborated with engineers using Git and designers on Figma.
+[LinkedIn](https://www.linkedin.com/in/modi-li) · [GitHub](https://github.com/modi-li)
 
 ## Education
 
-**M.S. in Computer Science** (Aug 2023 - May 2025)
+### The George Washington University
 
-The George Washington University (Washington, DC)
+**M.S. in Computer Science**
 
-**B.S. in Computer Science; B.S. in Mathematics** (Aug 2019 - May 2023)
+> CS Coursework: Algorithms, Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models, Natural Language Understanding, Neural Networks and Deep Learning, Software Paradigms
 
-Syracuse University (Syracuse, NY)
+Washington, DC&nbsp;&nbsp;·&nbsp;&nbsp;Aug 2023 - May 2025
 
-## Skills
+### Syracuse University
 
-- Programming Languages: Swift, JavaScript, TypeScript, Python, PHP, Java, C, C++, Go, Rust
-- iOS Frameworks: UIKit, SwiftUI, Core Data, SwiftData, Swift Concurrency, Swift Combine, MapKit, Alamofire, Clerk, Stream Chat
-- Full Stack Development: React, Next.js, Node.js, Tailwind CSS, WordPress
-- Cross-Platform App Development: React Native, Expo
-- Tools & Environments: Git, CI/CD, Xcode, VS Code, Cursor, AWS (EC2, S3, DynamoDB, Cognito, Amplify), Postman, Figma, Sketch
-- Data Analysis & Machine Learning: NumPy, pandas, Matplotlib, PyTorch, scikit-learn
-- Document Typesetting: Markdown, LaTeX, Typst
+**B.S. in Computer Science & Mathematics (double major)**
+
+> CS Coursework: Data Structures, Algorithms, Systems and Network Programming, Web Systems, Automata and Computability, Operating Systems, Software Specification and Design, Software Implementation, Android Programming, Computer Graphics
+> 
+> Math Coursework: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics, Combinatorics, Real Analysis, Abstract Algebra, Ordinary Differential Equations, Number Theory
+
+Syracuse, NY&nbsp;&nbsp;·&nbsp;&nbsp;Aug 2019 - May 2023
+
+## Experience
+
+### Dynamyc LLC
+
+**Software Engineer (contractor)**
+
+Santa Clara, CA&nbsp;&nbsp;·&nbsp;&nbsp;Nov 2025 - Mar 2026
+
+### Viral Instinct Inc.
+
+**iOS Software Engineer (contractor)**
+
+San Francisco, CA&nbsp;&nbsp;·&nbsp;&nbsp;Sep 2025 - Oct 2025
+
+### Vently Inc.
+
+**iOS Software Engineer (contractor)**
+
+Palo Alto, CA&nbsp;&nbsp;·&nbsp;&nbsp;Aug 2025 - Sep 2025
