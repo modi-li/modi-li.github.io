@@ -1,6 +1,6 @@
 # Modi (Victor) Li
 
-[LinkedIn](https://www.linkedin.com/in/modi-li) · [GitHub](https://github.com/modi-li)
+[LinkedIn](https://www.linkedin.com/in/modi-li)&nbsp;&nbsp;·&nbsp;&nbsp;[GitHub](https://github.com/modi-li)
 
 ## Education
 
